@@ -1,0 +1,13 @@
+(git init) // Inicializa ou Reinicia a utilizacao do projeto
+
+(git status) // Informa o estatus do versionamento do projeto
+
+(git add "exemplo.txt") // Adiciona o arquivo em pendencia ao versionamento
+(git add .) // Adiciona todos os arquivos em pendencia ao versionamento
+
+(git commit -m "explicacao da alteracao") // Commit com uma mensagem explicando o que foi alterado no projeto
+
+(git config --global user.email "email@gmail.com") // email do github
+(git config --global user.name "Nome Do Usuário") // nome no github
+
+(git push) // enviando pro github atualizacoes pro github
