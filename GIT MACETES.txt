@@ -13,7 +13,7 @@
 (git add origin https...) // setando onde vai ser armazenado no github
 (git push --set-upstream origin master) // definindo a branch pro armazenamento
 
-(git push) // enviando pro github atualizacoes pro github
+(git push) // enviando tudo que recebeu commit pro github
 
 (git rm meu_arquivo.txt) // Remover arquivo
 
